@@ -3,6 +3,6 @@
 	"description" : "For ECIII",
 	"version" : "0.0.1",
 	"dependencies" : {
-		"aws-sdk" : "2.1.26"
+		"aws-sdk" : ">=2.814.0"
 	}
 }
